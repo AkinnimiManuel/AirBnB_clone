@@ -1,6 +1,6 @@
 ### AIRBNB CLONE
 
-![Airbnb Logo](hbnb_logo.png.png)
+![Airbnb Logo](hbnb_logo.png)
 
 ![final results](ndpics.png)
 
