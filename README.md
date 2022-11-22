@@ -1,10 +1,10 @@
 ### AIRBNB CLONE
 
-![Airbnb Logo](hbnb_logo.png)
+![Airbnb Logo](/images/hbnb_logo.png)
 
-![final results](ndpics.png)
+![final results](/images/ndpics.png)
 
-![final results](third.png)
+![final results](/images/third.png)
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
 Each task is linked and will help you to:
