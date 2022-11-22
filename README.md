@@ -1,10 +1,17 @@
-### AIRBNB CLONE
+### AIR BNB CLONE - Console that's in charge of managing the models in a common AirBnB application.
 
 ![Airbnb Logo](/images/hbnb_logo.png)
+
+### FIRST STEP : THE CONSOLE
+
+![the console](/images/console_airbnb.png)
+
+### THE FINAL RESULTS
 
 ![final results](/images/ndpics.png)
 
 ![final results](/images/third.png)
+
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
 
 Each task is linked and will help you to:
